@@ -1,0 +1,22 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+
+}
+
+
+.appericiate {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: url('./bg.png');
+    /* vertically center */
+}
+
+.appericiate h1 {
+    font-size: 72px;
+    text-align: center;
+    color: #D20104;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
